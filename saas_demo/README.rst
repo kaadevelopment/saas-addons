@@ -6,7 +6,7 @@
  Quick Demo Databases
 ======================
 
-One-click demo-instances with modules from your git repositories
+One-click mo-instances with modules from your git repositories
 
 How it works
 ============
